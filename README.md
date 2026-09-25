@@ -12,7 +12,8 @@ The goal is to build a systematic record of:
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Repository Structure Example to Understand the WorkFlow
+```
 verilog-lab-log/
 │
 ├── README.md                # Main overview (this file)
@@ -37,7 +38,7 @@ verilog-lab-log/
 ├── waveform.png
 ├── synth_report.png
 └── README.md
-
+```
 
 Each **project folder** contains:
 - Verilog source (`.v`)
