@@ -1,6 +1,6 @@
-## What I Learned from Lab 3
+## What I Learned from FSM Binary Sequential Detector 
 
-This lab focused on **Sequential Circuit Design and Implementation on FPGA** using Verilog.  
+This Learning Project focused on **Sequential Circuit Design and Implementation on FPGA** using Verilog.  
 The main task was building a **Finite State Machine (FSM) Adder** and verifying its behavior through simulation.
 
 ### Key Learnings
