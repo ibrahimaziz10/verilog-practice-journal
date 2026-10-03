@@ -31,7 +31,8 @@ SUCCESS
 - Run with Icarus Verilog, ModelSim, or Vivado
 - Generates `waveform.vcd` for GTKWave visualization
 - Confirms correct bit selection based on `sel`
-![Waveform](<img width="610" height="197" alt="Waveform png" src="https://github.com/user-attachments/assets/b14c3c2c-eb24-4667-8634-a84387c1b1bd" />)
+<img width="610" height="197" alt="Waveform png" src="https://github.com/user-attachments/assets/91fffebc-78c0-4e29-bd99-eaedbc3ecbb6" />
+
 
 
 ## Synthesis
@@ -39,4 +40,5 @@ SUCCESS
 - Pure combinational logic (no sequential elements)
 - Optimized gate-level netlist with decoder + OR tree
 - Resource usage proportional to hierarchy depth
-- !(Systhesis)(<img width="458" height="269" alt="Screenshot 2026-10-03 172927" src="https://github.com/user-attachments/assets/eb799214-df28-4de2-9b15-ea9a1e7cc70d" />)
+<img width="458" height="269" alt="Screenshot 2026-10-03 172927" src="https://github.com/user-attachments/assets/6c0d984d-a200-42fa-b5f4-5d57dc504ead" />
+
